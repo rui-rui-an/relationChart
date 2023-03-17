@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="title">
-      请点击节点进行分析
+      请双击节点进行分析
     </div>
     <router-view />
   </div>
